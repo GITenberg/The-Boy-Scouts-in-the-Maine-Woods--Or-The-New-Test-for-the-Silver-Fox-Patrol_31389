@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2624
     wikipedia: http://www.gutenberg.org/ebooks/author/1599
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31389#The-Boy-Scouts-in-the-Maine-Woods--Or-The-New-Test-for-the-Silver-Fox-Patrol
 gutenberg_issued: '2010-02-25'
 gutenberg_type: Text
 identifiers:
