@@ -1,0 +1,26 @@
+_repo: The-Boy-Scouts-in-the-Maine-Woods--Or-The-New-Test-for-the-Silver-Fox-Patrol_31389
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carter, Herbert, active 1909-1917
+    gutenberg_agent_id: '2624'
+    url: http://www.gutenberg.org/2009/agents/2624
+    wikipedia: http://www.gutenberg.org/ebooks/author/1599
+description: ''
+gutenberg_issued: '2010-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31389'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Maine -- Juvenile fiction'
+title: The Boy Scouts in the Maine Woods; Or, The New Test for the Silver Fox Patrol
+url: http://www.gutenberg.org/ebooks/31389
